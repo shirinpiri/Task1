@@ -1,0 +1,11 @@
+D:\RasheinTeb\Task1\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\RasheinTeb\Task1\Domain\bin\Debug\net7.0\Domain.dll
+D:\RasheinTeb\Task1\Domain\bin\Debug\net7.0\Domain.pdb
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.dll
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\Domain.pdb
+D:\RasheinTeb\Task1\Domain\obj\Debug\net7.0\ref\Domain.dll
